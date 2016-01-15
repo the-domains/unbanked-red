@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Unbanked.red]]></title>
+        <description><![CDATA[Unbanked.red]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jan 2016 20:30:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Een gemiddeld miljonairshuishouden kan €352.000, verliezen in één klap. Bron CBS]]></title>
+            <description><![CDATA[<article><h1>Een gemiddeld miljonairshuishouden kan €352.000, verliezen in één klap. Bron CBS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe2fbe0e2fbcb3bd017c85fc74bafd6f463b8416.png"></article>]]></description>
+            <link>undefinedbda1587d-12cc-40c3-b753-144dc9b69d2e/index.html</link>
+            <guid isPermaLink="false">bda1587d-12cc-40c3-b753-144dc9b69d2e</guid>
+            <pubDate>Fri, 15 Jan 2016 20:29:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
